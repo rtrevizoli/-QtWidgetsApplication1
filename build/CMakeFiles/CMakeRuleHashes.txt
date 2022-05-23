@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+e0853381d8b6de7c2d7af7c6dc4b5cd7 QtWidgetsApplication1/CMakeFiles/QtWidgetsApplication1_autogen
+1dc1cc6accf7c4bfe48d6d8f260ce4c4 QtWidgetsApplication1/QtWidgetsApplication1_autogen/EWIEGA46WW/qrc_slave.cpp

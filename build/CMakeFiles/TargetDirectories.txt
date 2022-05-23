@@ -1,0 +1,14 @@
+/mnt/c/Users/user/source/repos/QtWidgetsApplication1/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/user/source/repos/QtWidgetsApplication1/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/user/source/repos/QtWidgetsApplication1/build/CMakeFiles/list_install_components.dir
+/mnt/c/Users/user/source/repos/QtWidgetsApplication1/build/CMakeFiles/install.dir
+/mnt/c/Users/user/source/repos/QtWidgetsApplication1/build/CMakeFiles/install/local.dir
+/mnt/c/Users/user/source/repos/QtWidgetsApplication1/build/CMakeFiles/install/strip.dir
+/mnt/c/Users/user/source/repos/QtWidgetsApplication1/build/QtWidgetsApplication1/CMakeFiles/QtWidgetsApplication1.dir
+/mnt/c/Users/user/source/repos/QtWidgetsApplication1/build/QtWidgetsApplication1/CMakeFiles/edit_cache.dir
+/mnt/c/Users/user/source/repos/QtWidgetsApplication1/build/QtWidgetsApplication1/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/user/source/repos/QtWidgetsApplication1/build/QtWidgetsApplication1/CMakeFiles/list_install_components.dir
+/mnt/c/Users/user/source/repos/QtWidgetsApplication1/build/QtWidgetsApplication1/CMakeFiles/install.dir
+/mnt/c/Users/user/source/repos/QtWidgetsApplication1/build/QtWidgetsApplication1/CMakeFiles/install/local.dir
+/mnt/c/Users/user/source/repos/QtWidgetsApplication1/build/QtWidgetsApplication1/CMakeFiles/install/strip.dir
+/mnt/c/Users/user/source/repos/QtWidgetsApplication1/build/QtWidgetsApplication1/CMakeFiles/QtWidgetsApplication1_autogen.dir

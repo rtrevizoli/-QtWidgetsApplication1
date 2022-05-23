@@ -1,0 +1,25 @@
+{
+	"BUILD_DIR" : "/mnt/c/Users/user/source/repos/QtWidgetsApplication1/build/QtWidgetsApplication1/QtWidgetsApplication1_autogen",
+	"CMAKE_BINARY_DIR" : "/mnt/c/Users/user/source/repos/QtWidgetsApplication1/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/mnt/c/Users/user/source/repos/QtWidgetsApplication1/build/QtWidgetsApplication1",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/mnt/c/Users/user/source/repos/QtWidgetsApplication1/QtWidgetsApplication1",
+	"CMAKE_SOURCE_DIR" : "/mnt/c/Users/user/source/repos/QtWidgetsApplication1",
+	"INCLUDE_DIR" : "/mnt/c/Users/user/source/repos/QtWidgetsApplication1/build/QtWidgetsApplication1/QtWidgetsApplication1_autogen/include",
+	"INPUTS" : 
+	[
+		"/mnt/c/Users/user/source/repos/QtWidgetsApplication1/QtWidgetsApplication1/images/application-exit.png",
+		"/mnt/c/Users/user/source/repos/QtWidgetsApplication1/QtWidgetsApplication1/images/disconnect.png",
+		"/mnt/c/Users/user/source/repos/QtWidgetsApplication1/QtWidgetsApplication1/images/connect.png",
+		"/mnt/c/Users/user/source/repos/QtWidgetsApplication1/QtWidgetsApplication1/images/settings.png"
+	],
+	"LOCK_FILE" : "/mnt/c/Users/user/source/repos/QtWidgetsApplication1/build/QtWidgetsApplication1/CMakeFiles/QtWidgetsApplication1_autogen.dir/AutoRcc_slave_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "slave" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_slave.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt5/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/mnt/c/Users/user/source/repos/QtWidgetsApplication1/build/QtWidgetsApplication1/CMakeFiles/QtWidgetsApplication1_autogen.dir/AutoRcc_slave_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/mnt/c/Users/user/source/repos/QtWidgetsApplication1/QtWidgetsApplication1/slave.qrc",
+	"VERBOSITY" : 0
+}
